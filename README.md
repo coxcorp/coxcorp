@@ -56,8 +56,6 @@ Marceneiro nas horas vagas.
 <p>
   <img align="center" height="40" width="40" alt="VsCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/480px-Visual_Studio_Code_1.35_icon.svg.png">
   <img align="center" height="40" width="40" alt="Insomnia" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
-  <img align="center" height="40" width="40" alt="Thunder" src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.16.4/1652969502181/Microsoft.VisualStudio.Services.Icons.Default">
-  <img align="center" height="40" width="40" alt="Postman" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">
   <img align="center" height="40" width="40" alt="Trello" src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png">
 </p>
  
