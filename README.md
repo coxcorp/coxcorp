@@ -8,7 +8,7 @@ Com uma queda especial por números, acredito que decisões de liderança estão
 Marceneiro nas horas vagas.
 </div>
 
-## < Stacks que estudei />
+## < Minhas Stacks />
 
 ### Linguagens
 <p>
