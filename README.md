@@ -3,7 +3,7 @@
 ## Sou o Diego, desenvolvedor em desenvolvimento ✨
 <div align="justify">
 Administrador e engenheiro mecânico totalmente apaixonado pela área de ciência de dados e backend.
-Estudante de ciência de dados na Univesp, estudei desenvolvimento web da Trybe, escola alinhada ao mercado que proporciona aprendizado na prática.
+Cursando ciência de dados na Univesp. Conclui o curso em desenvolvimento web da Trybe.
 Com uma queda especial por números, acredito que decisões de liderança estão cada vez mais pautadas em informações geradas a partir da análise de dados. Trabalho para trazer os dados como base para as decisões estratégicas, sem perder o foco no capital humano.
 Marceneiro nas horas vagas.
 </div>
